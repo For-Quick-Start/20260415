@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: orchid;
+}
+
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+p {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: right;
+    font-size: 44px;
+}
+
+button {
+    background-color: darkgreen;
+    color: lightgrey;
+    padding: 20px 30px 20px 50px;
+}
+
+.first {
+    color: rgb(87, 17, 201);
+    text-align: left;
+}
+
+.green {
+    color: darkgreen;
+    text-align: right;
+}
+
+#second {
+    color: antiquewhite;
+    font-weight: 900;
+}
+
+.box {
+    border: 2px solid black;
+    margin: 20px;
+    padding: 30px;
+    background-color: yellow;
+    text-align: center;
+}
+
+.outer_div {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.inner_div_1 {
+    background-color: white;
+    color: black;
+}
+
+.inner_div_2 {
+    background-color: black;
+    color: white;
+}
+
+.inner_div_3 {
+    font-weight: bold;
+    background-color: yellow;
+    color: darkgreen;
+}
